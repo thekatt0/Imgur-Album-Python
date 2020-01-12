@@ -8,8 +8,8 @@ Replace 'Qt3XXOA' with album id. Or use that one. It's all Baby Yoda.
 
 The last line is how the information will be printed. Current output is the following.
 
-'link',
-'link',
-'link',
-'link',
+'link',<br>
+'link',<br>
+'link',<br>
+'link',<br>
 
